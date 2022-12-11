@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 <h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Trong Hieu </h2>
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=14F7EA&center=true&vCenter=true&width=730&lines=Learning+is+the+treasure+that%E2%80%99ll+follow+its+owner+everywhere.;Software+Engineer" alt="Typing SVG" /></a>
